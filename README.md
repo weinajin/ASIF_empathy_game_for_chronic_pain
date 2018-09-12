@@ -4,7 +4,7 @@ Image living a day in the body of a chronic pain's patient. This body-sensing vi
 
 ![AS IF game](https://github.com/weinajin/ASIF_empathy_game_for_chronic_pain/blob/master/ASIF1.JPG)
 
-This is a joint project with Servet Ulas and Xin Tong. I am responsible for the game design and coding for the game mechanism.
+This is a joint project with Servet Ulas and Xin Tong. I am responsible for the game design and game mechanism coding.
 
 The game was the finalist of the Student Game Competition in CHI 2016. And it was reported by [SFU news](https://www.sfu.ca/sfunews/stories/2016/sfu-student-game-fosters-empathy-for-chronic-pain-sufferers.html).
 
